@@ -140,6 +140,7 @@ docker-compose up --build
 | GET    | /auth/profile     | User profile     |
 | GET    | /auth/admin       | Admin-only route |
 
+## All API endpoints have been tested using Postman.
 ---
 
 ##  API Response Format
